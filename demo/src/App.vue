@@ -33,6 +33,9 @@ html, body {
 }
 #app {
   height: 100%;
+  .ant-table-header {
+    overflow: hidden;
+  }
 }
 .code-preview {
   position: fixed;
